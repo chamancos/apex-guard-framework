@@ -1,0 +1,29 @@
+[
+    {
+        "timestamp": "2026-10-12 03:38:03",
+        "ruta": "Ruta Centro - Zona Hotelera",
+        "distancia_km": 12.5,
+        "puntaje_riesgo_tactico": 8.5,
+        "estado_alerta": "AMARILLO (Precaución Moderada)",
+        "blindaje_requerido": "Nivel IV (Reforzado)",
+        "protocolo_disruptivo_recomendado": "Monitoreo constante de retaguardia, evitar detenciones prolongadas en semáforos."
+    },
+    {
+        "timestamp": "2026-10-12 03:38:03",
+        "ruta": "Ruta Periférico Norte (Punto Crítico)",
+        "distancia_km": 18.0,
+        "puntaje_riesgo_tactico": 26.0,
+        "estado_alerta": "ROJO (Alto Riesgo - Requiere Disrupción)",
+        "blindaje_requerido": "Nivel V / VI (Alto Blindaje Balístico)",
+        "protocolo_disruptivo_recomendado": "ACTIVAR CONTRAMEDIDA: Cambio dinámico de ruta a 2 km del checkpoint, uso de vehículo señuelo y formación en cuña."
+    },
+    {
+        "timestamp": "2026-10-12 03:38:03",
+        "ruta": "Ruta Alterna Aeropuerto",
+        "distancia_km": 24.1,
+        "puntaje_riesgo_tactico": 9.0,
+        "estado_alerta": "AMARILLO (Precaución Moderada)",
+        "blindaje_requerido": "Nivel IV (Reforzado)",
+        "protocolo_disruptivo_recomendado": "Monitoreo constante de retaguardia, evitar detenciones prolongadas en semáforos."
+    }
+]
